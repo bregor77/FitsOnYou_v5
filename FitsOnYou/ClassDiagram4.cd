@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FitsOnYou.Admin.Category">
+    <Position X="4.25" Y="8.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIAAAAAAAAAEQACEAAAQAAAAAAIAGFAAwBAAIAIgw=</HashCode>
+      <FileName>Admin\Category.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitsOnYou.Admin.Admin">
+    <Position X="0.5" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAABIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Admin\Admin.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitsOnYou.Admin.Product">
+    <Position X="4.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAIAAAAAgAEQACFAAAQAgEABYIAABAAQFAAowog0=</HashCode>
+      <FileName>Admin\Product.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitsOnYou.BundleConfig">
+    <Position X="7.25" Y="14.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\BundleConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitsOnYou.Connection">
+    <Position X="0.5" Y="16.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitsOnYou.Utils">
+    <Position X="0.5" Y="14.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitsOnYou.About">
+    <Position X="7.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>About.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitsOnYou.User.Contact">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>User\Contact.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitsOnYou.User.Default">
+    <Position X="7.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>User\Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitsOnYou.User.Menu">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>User\Menu.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitsOnYou.User.Registration">
+    <Position X="7.5" Y="2" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AMgAQABAAAACAAQIAAIIBQAQABAACIAhABwAAAJgAMw=</HashCode>
+      <FileName>User\Registration.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="4" Y="14.5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Web.UI.MasterPage">
+    <Position X="2.75" Y="18.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Web.UI.Page">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Web.UI.UserControl">
+    <Position X="5" Y="18.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FitsOnYou.Admin.Dashboard">
+    <Position X="7.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Admin\Dashboard.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
